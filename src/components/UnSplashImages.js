@@ -41,7 +41,7 @@ export const UnSplashImages = ({data}) => {
                  
                     
                     {data.map(i=>(
-                        <ImageList key = {i.id} ur={i.urls}/>
+                        <ImageList key = {i.id} ur={i.urls} name={"mithun"}/>
              
               ))}
                 

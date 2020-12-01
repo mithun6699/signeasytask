@@ -10,3 +10,13 @@
 .dislikeicon {
   color: red;
 }
+.image {
+  height: 200px;
+  width: 250;
+  padding: 18px;
+  transition: transform 450ms;
+}
+.imgonclick {
+  transform: scale(1);
+  height: 250px;
+}
