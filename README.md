@@ -7,3 +7,7 @@ used flexbox to design
 
 step 1 : npm init
 step2 : npm start
+
+created like and unlike feature with using 2 states
+
+used material ui icons for like and unlike button
