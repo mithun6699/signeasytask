@@ -1,8 +1,10 @@
-.unspalshimages h1 {
-  text-align: center;
+.unspalshimages {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
-.unspalshimages__image-area {
+/* .unspalshimages__image-area {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -10,9 +12,9 @@
   justify-content: center;
 }
 .unspalshimages__img {
-  background-color: lightgray;
+  background-color: red;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
-}
+} */

@@ -1,0 +1,12 @@
+.imagelist {
+  display: flex;
+  flex-direction: column;
+}
+.likeicon {
+  color: green;
+  display: flex;
+  align-items: center;
+}
+.dislikeicon {
+  color: red;
+}
